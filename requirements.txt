@@ -1,0 +1,9 @@
+# Core packages
+langgraph>=0.1.0
+autogen>=0.1.0
+
+# Optional: For JSON handling and typing
+typing-extensions>=4.5.0
+
+# For Python >=3.10 compatibility
+python-dateutil>=2.8.2
