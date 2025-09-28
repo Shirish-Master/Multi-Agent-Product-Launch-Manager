@@ -1,0 +1,5 @@
+{
+    "model": "gpt-4o",
+    "temperature": 0,
+    "api_key": "Enter Your API Key"
+}
