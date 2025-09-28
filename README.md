@@ -1,4 +1,4 @@
-# Multi-Agent Product Launch System
+# Multi-Agent Product Launch Manager
 
 ## Project Overview
 The **Multi-Agent Product Launch System** is a workflow automation framework that simulates a collaborative product launch process using **LangGraph** and **AutoGen**. The system orchestrates multiple specialized agents to produce a structured, end-to-end product launch plan, including market research, strategy planning, risk assessment, marketing content creation, and documentation. It works for any product type, whether physical, software, or service.
